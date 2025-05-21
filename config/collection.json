@@ -1,0 +1,21 @@
+{
+  "collectionName": "Duckers : Bloodline",
+  "description": "Every feather’s a brushstroke. Every glare, a signature. This ain’t just unique art — it’s attitude, animated. 2,000 rebel duckers from the pond to the chain. Hold the legacy. Reap the bloodline’s rewards and utility",
+  "outputFormat": "mp4",
+  "nftsToGenerate": 2000,
+  "aspectRatio": "1:1",
+  "canvasSize": "1080x1080",
+  "filePrefix": "Ducker",
+  "startIndex": 1,
+  "creator": "What The Duck",
+  "externalLink": "https://wtd.rocks",
+  "license": "CC0",
+  "metadataStandard": "XLS-20",
+  "includeGoldenEggs": true,
+  "goldenEggsToInject": 5,
+  "minTraits": 3,
+  "maxTraits": 8,
+  "maxRetries": 10000,
+  "rules": [],
+  "specialTokens": []
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Ducker #1",
+  "description": "Every feather’s a brushstroke. Every glare, a signature. This ain’t just unique art — it’s attitude, animated. 2,000 rebel duckers from the pond to the chain. Hold the legacy. Reap the bloodline’s rewards and utility",
+  "video": "Ducker #1.mp4",
+  "image": "Ducker #1.png",
+  "collection": {
+    "name": "Duckers : Bloodline"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chapter2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pocket Hands"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "Torn"
+    },
+    {
+      "trait_type": "Boot",
+      "value": "Combat Boots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Battle Crown"
+    },
+    {
+      "trait_type": "Tattoo",
+      "value": "FPT"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "Ducker #1.mp4",
+        "type": "video/mp4"
+      },
+      {
+        "uri": "Ducker #1.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "video",
+    "creators": [
+      {
+        "name": "What The Duck"
+      }
+    ]
+  },
+  "compiler": "DuckGen"
+}

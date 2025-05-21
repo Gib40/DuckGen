@@ -1,0 +1,25 @@
+{
+  "name": "duckgen",
+  "version": "1.2.2",
+  "description": "DuckGen NFT generator — MP4 backgrounds, PNG traits, and animated overlays.",
+  "main": "index.js",
+  "scripts": {
+    "render": "node scripts/render.js",
+    "traitmix": "node scripts/traitmixer.js && node scripts/traitsummary.js",
+    "metadata": "node scripts/metadatagen.js",
+    "test": "mocha \"tests/**/*.test.js\""
+  },
+  "author": "What The Duck",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^10.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

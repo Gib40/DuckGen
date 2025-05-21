@@ -1,0 +1,84 @@
+DuckGen Trait Summary — 2025-05-21T00:31:10.810Z
+
+🧾 Total NFTs: 2000
+🥚 Golden Eggs: 5
+
+🧱 Layer Usage:
+  Background: 2000 (100.00%)
+  Body: 2000 (100.00%)
+  Shirt: 2000 (100.00%)
+  Boot: 1373 (68.65%)
+  Accessory: 1151 (57.55%)
+  Scar: 506 (25.30%)
+  Sunglass: 1584 (79.20%)
+  Tattoo: 322 (16.10%)
+  FX: 775 (38.75%)
+  Special: 5 (0.25%)
+
+🎨 Trait Frequencies by Layer:
+
+  [Background]
+    Chapter1: 591 (29.55%) 
+    Chapter2: 517 (25.85%) 
+    Chapter3: 414 (20.70%) 
+    Chapter4: 282 (14.10%) 
+    Chapter5: 196 (9.80%) 
+
+  [Body]
+    Pocket Hands: 688 (34.40%) 
+    Duck You: 516 (25.80%) 
+    Fighter Fists: 441 (22.05%) 
+    Peace Ducker: 252 (12.60%) 
+    Duck Magnum: 103 (5.15%) 
+
+  [Shirt]
+    Torn: 613 (30.65%) 
+    Conspiracy: 454 (22.70%) 
+    Futuristic: 373 (18.65%) 
+    Kinky: 265 (13.25%) 
+    Ducky: 228 (11.40%) 
+    WTD: 67 (3.35%) 
+
+  [Boot]
+    Converse: 477 (34.74%) 
+    Combat Boots: 389 (28.33%) 
+    Futuristic: 268 (19.52%) 
+    Ducky: 185 (13.47%) 
+    Royal Mafia: 54 (3.93%) 
+
+  [Accessory]
+    Nose Ring: 367 (31.89%) 
+    Swag Chain: 267 (23.20%) 
+    Devil Horns: 184 (15.99%) 
+    Broken Halo: 171 (14.86%) 
+    Lit Joint: 123 (10.69%) 
+    Battle Crown: 39 (3.39%) 
+
+  [Scar]
+    Cat Scratch: 190 (37.55%) 
+    Lip Stitch: 131 (25.89%) 
+    Bruise: 90 (17.79%) 
+    Beak Crack: 77 (15.22%) 
+    Scar Face: 18 (3.56%) 
+
+  [Sunglass]
+    Cracked: 494 (31.19%) 
+    Steampunk: 364 (22.98%) 
+    Nerdy: 274 (17.30%) 
+    Futuristic HUD: 178 (11.24%) 
+    Oversized: 186 (11.74%) 
+    Mirrored: 88 (5.56%) 
+
+  [Tattoo]
+    XPrisoners: 153 (47.52%) 
+    FPT: 122 (37.89%) 
+    UGA: 47 (14.60%) 
+
+  [FX]
+    Fog: 325 (41.94%) 
+    Rain: 230 (29.68%) 
+    Frost: 155 (20.00%) 
+    Fire: 65 (8.39%) 
+
+  [Special]
+    ❌ Unknown Trait: Golden Egg — in data but not in config

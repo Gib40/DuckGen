@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Background",
+    "order": 1,
+    "required": true,
+    "rarity": 100,
+    "animated": true,
+    "assetType": "mp4",
+    "traitType": "Background",
+    "traits": [
+      { "name": "Chapter1", "weight": 30 },
+      { "name": "Chapter2", "weight": 25 },
+      { "name": "Chapter3", "weight": 20 },
+      { "name": "Chapter4", "weight": 15 },
+      { "name": "Chapter5", "weight": 10 }
+    ]
+  },
+  {
+    "name": "Body",
+    "order": 2,
+    "required": true,
+    "rarity": 100,
+    "animated": false,
+    "assetType": "png",
+    "traitType": "Body",
+    "traits": [
+      { "name": "Pocket Hands", "weight": 35 },
+      { "name": "Duck You", "weight": 25 },
+      { "name": "Fighter Fists", "weight": 20 },
+      { "name": "Peace Ducker", "weight": 12 },
+      { "name": "Duck Magnum", "weight": 8 }
+    ]
+  },
+  {
+    "name": "Shirt",
+    "order": 3,
+    "required": true,
+    "rarity": 100,
+    "animated": false,
+    "assetType": "png",
+    "traitType": "Shirt",
+    "traits": [
+      { "name": "Torn", "weight": 30 },
+      { "name": "Conspiracy", "weight": 22 },
+      { "name": "Futuristic", "weight": 18 },
+      { "name": "Kinky", "weight": 12 },
+      { "name": "Ducky", "weight": 10 },
+      { "name": "WTD", "weight": 8 }
+    ]
+  },
+  {
+    "name": "Boot",
+    "order": 4,
+    "required": false,
+    "rarity": 70,
+    "animated": false,
+    "assetType": "png",
+    "traitType": "Boot",
+    "traits": [
+      { "name": "Converse", "weight": 35 },
+      { "name": "Combat Boots", "weight": 25 },
+      { "name": "Futuristic", "weight": 20 },
+      { "name": "Ducky", "weight": 12 },
+      { "name": "Royal Mafia", "weight": 8 }
+    ]
+  },
+  {
+    "name": "Accessory",
+    "order": 5,
+    "required": false,
+    "rarity": 55,
+    "animated": false,
+    "assetType": "png",
+    "traitType": "Accessory",
+    "traits": [
+      { "name": "Nose Ring", "weight": 30 },
+      { "name": "Swag Chain", "weight": 22 },
+      { "name": "Devil Horns", "weight": 18 },
+      { "name": "Broken Halo", "weight": 12 },
+      { "name": "Lit Joint", "weight": 10 },
+      { "name": "Battle Crown", "weight": 8 }
+    ]
+  },
+  {
+    "name": "Scar",
+    "order": 6,
+    "required": false,
+    "rarity": 25,
+    "animated": false,
+    "assetType": "png",
+    "traitType": "Scar",
+    "traits": [
+      { "name": "Cat Scratch", "weight": 35 },
+      { "name": "Lip Stitch", "weight": 25 },
+      { "name": "Bruise", "weight": 20 },
+      { "name": "Beak Crack", "weight": 12 },
+      { "name": "Scar Face", "weight": 8 }
+    ]
+  },
+  {
+    "name": "Sunglass",
+    "order": 7,
+    "required": false,
+    "rarity": 80,
+    "animated": false,
+    "assetType": "png",
+    "traitType": "Sunglass",
+    "traits": [
+      { "name": "Cracked", "weight": 30 },
+      { "name": "Steampunk", "weight": 22 },
+      { "name": "Nerdy", "weight": 18 },
+      { "name": "Futuristic HUD", "weight": 12 },
+      { "name": "Oversized", "weight": 10 },
+      { "name": "Mirrored", "weight": 8 }
+    ]
+  },
+  {
+    "name": "Tattoo",
+    "order": 8,
+    "required": false,
+    "rarity": 15,
+    "animated": false,
+    "assetType": "png",
+    "traitType": "Tattoo",
+    "traits": [
+      { "name": "XPrisoners", "weight": 50 },
+      { "name": "FPT", "weight": 35 },
+      { "name": "UGA", "weight": 15 }
+    ]
+  },
+  {
+    "name": "FX",
+    "order": 9,
+    "required": false,
+    "rarity": 40,
+    "animated": true,
+    "assetType": "mov",
+    "traitType": "FX",
+    "traits": [
+      { "name": "Fog", "weight": 40 },
+      { "name": "Rain", "weight": 30 },
+      { "name": "Frost", "weight": 20 },
+      { "name": "Fire", "weight": 10 }
+    ]
+  }
+]
